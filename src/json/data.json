@@ -4,8 +4,7 @@
       "id": "0",
       "name": "Moon",
       "images": {
-        "png": "./assets/destination/image-moon.png",
-        "webp": "./assets/destination/image-moon.webp"
+        "png": "./assets/destination/image-moon.png"
       },
       "description": "See our planet as you've never seen it before. A perfect relaxing trip away to help regain perspective and come back refreshed. While you're there, take in some history by visiting the Luna 2 and Apollo 11 landing sites.",
       "distance": "384,400 km",
@@ -15,8 +14,7 @@
       "id": "1",
       "name": "Mercury",
       "images": {
-        "png": "./assets/destination/image-Mercury.png",
-        "webp": "./assets/destination/image-mars.webp"
+        "png": "./assets/destination/image-mercury.png"
       },
       "description": "Mercury is so close to the Sun, it is hard to directly observe from Earth except during dawn or twilight when the Sun's brightness doesn't outshine little Mercury. The first spacecraft to visit Mercury was NASA's Mariner 10.",
       "distance": "77 mil. km",
@@ -26,8 +24,7 @@
       "id": "2",
       "name": "Venus",
       "images": {
-        "png": "./assets/destination/image-venus.png",
-        "webp": "./assets/destination/image-europa.webp"
+        "png": "./assets/destination/image-venus.png"
       },
       "description": "More than 40 spacecraft have launched for Venus. One spacecraft – Japan's Akatsuki – is currently in orbit. NASA will launch two missions to Venus in the next decade, and ESA will launch one. NASA's Mariner 2 was the first spacecraft to visit any planet beyond Earth when it flew past Venus on Dec. 14, 1962.",
       "distance": "61 mil. km",
@@ -37,8 +34,7 @@
       "id": "3",
       "name": "Mars",
       "images": {
-        "png": "./assets/destination/image-mars.png",
-        "webp": "./assets/destination/image-titan.webp"
+        "png": "./assets/destination/image-mars.png"
       },
       "description": "No planet beyond Earth has been studied as intensely as Mars. Recorded observations of Mars date as far back as the era of ancient Egypt over 4,000 years ago, when they charted the planet's movements in the sky. Today, NASA has a fleet of robotic spacecraft studying Mars from all angles.",
       "distance": "82 mil. km",
@@ -48,8 +44,7 @@
       "id": "4",
       "name": "Jupiter",
       "images": {
-        "png": "./assets/destination/image-jupiter.png",
-        "webp": "./assets/destination/image-titan.webp"
+        "png": "./assets/destination/image-jupiter.png"
       },
       "description": "Jupiter has been known since ancient times, the first detailed observations of this planet were made by Galileo Galilei in 1610 with a small telescope. More recently, this planet has been visited by passing spacecraft, orbiters and probes.",
       "distance": "590 mil. km",
@@ -60,8 +55,7 @@
       "id": "5",
       "name": "Saturn",
       "images": {
-        "png": "./assets/destination/image-saturn.png",
-        "webp": "./assets/destination/image-titan.webp"
+        "png": "./assets/destination/image-saturn.png"
       },
       "description": "Four robotic spacecraft have visited Saturn. NASA's Pioneer 11 provided the first close look in September 1979. NASA's twin Voyager 1 and Voyager 2 spacecraft followed up with flybys nine months apart in 1980 and 1981.",
       "distance": "1.2 bil. km",
@@ -71,8 +65,7 @@
       "id": "6",
       "name": "Uranus",
       "images": {
-        "png": "./assets/destination/image-uranus.png",
-        "webp": "./assets/destination/image-titan.webp"
+        "png": "./assets/destination/image-uranus.png"
       },
       "description": "Only one spacecraft has visited distant Uranus. After traveling more than 1.8 billion miles (3 billion kilometers) in nine years, NASA's Voyager 2 gathered much of its critical information about the mysterious planet, including its rings and moons, in just six hours.",
       "distance": "2.7 bil. km",
@@ -83,8 +76,7 @@
       "id": "7",
       "name": "Neptune",
       "images": {
-        "png": "./assets/destination/image-neptune.png",
-        "webp": "./assets/destination/image-titan.webp"
+        "png": "./assets/destination/image-neptune.png"
       },
       "description": "NASA's Voyager 2 became the first-and only-spacecraft to study Neptune up close. Voyager returned a wealth of information about Neptune and its moons-and confirmed evidence the giant world had faint rings like the other gas planets.",
       "distance": "4.3 bil. km",

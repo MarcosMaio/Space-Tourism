@@ -1,6 +1,6 @@
 # Space Tourism
 
-OBS: O site foi feito para concluir o desafio do site Front-End Mentor queo objetivo no caso era fazer a aplicação com base nos requisitos ultilizar algumas tecnologias e seguir o template, fiz algumas mudanças em designer e interações a mais porém o template segue me base oque foi pedido.
+OBS: O site foi feito para concluir o desafio do site Front-End Mentor queo objetivo no caso era fazer a aplicação com base nos requisitos ultilizar algumas tecnologias e seguir o template, fiz algumas mudanças em designer e interações a mais porém o template segue em base oque foi pedido.
 
 
 

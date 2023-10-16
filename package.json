@@ -1,6 +1,5 @@
 {
-  "homepage": "https://avagsargsyan.github.io/Space-tourism-website",
-  "name": "space-tourism-website",
+  "name": "space-tourism",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

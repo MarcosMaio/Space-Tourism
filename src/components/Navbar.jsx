@@ -3,9 +3,9 @@ import useWindowWidth from '../hooks/useWindowWidth';
 import NavLink from './NavLink';
 import { useState } from 'react';
 
-import logoSrc from '../static-assets/logo.svg';
-import closeIconSrc from '../static-assets/close-icon.svg';
-import menuIconSrc from '../static-assets/menu-icon.svg';
+import logoSrc from '../static/logo.svg';
+import closeIconSrc from '../static/close-icon.svg';
+import menuIconSrc from '../static/menu-icon.svg';
 
 export default function Navbar() {
   const [showMenu, setShowMenu] = useState(false);
@@ -33,10 +33,10 @@ export default function Navbar() {
   const navlinks = (
     <div className="navbar">
       {windowWidth < mobileWidth ? closeIcon : ''}
-      <NavLink number="00" name="HOME" to="/Space-tourism-website" />
-      <NavLink number="01" name="DESTINATION" to="/Space-tourism-website/destinations" />
-      <NavLink number="02" name="CREW" to="/Space-tourism-website/crew" />
-      <NavLink number="03" name="TECHNOLOGY" to="/Space-tourism-website/technologies" />
+      <NavLink number="00" name="Home" to="/" />
+      <NavLink number="01" name="Destination" to="/destinations" />
+      <NavLink number="02" name="Crew" to="/crew" />
+      <NavLink number="03" name="Technology" to="/technologies" />
     </div>
   );
 

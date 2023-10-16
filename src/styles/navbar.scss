@@ -74,6 +74,7 @@ nav {
       color: $heading-color;
       display: flex;
       gap: 0.5rem;
+      text-transform: uppercase;
 
       @include mobile {
         padding: 0.6rem 1rem;

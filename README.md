@@ -1,5 +1,7 @@
 # Space Tourism
 
+OBS: O site foi feito para concluir o desafio do site Front-End Mentor queo objetivo no caso era fazer a aplicação com base nos requisitos ultilizar algumas tecnologias e seguir o template, fiz algumas mudanças em designer e interações a mais porém o template segue me base oque foi pedido.
+
 Este repositório contém o código-fonte e recursos para o site Space Tourism, uma plataforma que brinca com a ideia de viajar para outros planetas. O site é projetado para proporcionar uma experiência divertida e informativa sobre a exploração do espaço. Os usuários podem explorar informações sobre destinos, tripulantes e espaçonaves.
 
 ## Página Inicial
